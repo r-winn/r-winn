@@ -1,7 +1,7 @@
 r-winn
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⚙️ backend · systems · minimal interfaces
+backend · systems · interfaces
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 I work on systems that are meant to be reliable, quiet, and
