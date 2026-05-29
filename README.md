@@ -7,7 +7,7 @@
 ```
 
 # Arvin Mohsenian
-`// r-winn · builder · explorer`
+`// Full Stack Developer · Data Science · Builder`
 
 *Building software that thinks — one commit at a time.*
 
@@ -29,7 +29,7 @@
 
 ## // Skill Stack
 
-![Full Stack](https://img.shields.io/badge/Full_Stack-Dev-60a5fa?style=flat-square&labelColor=0c1e3a)
+![Full Stack](https://img.shields.io/badge/Full_Stack-Developer-60a5fa?style=flat-square&labelColor=0c1e3a)
 ![AI Integration](https://img.shields.io/badge/AI-Integration-a78bfa?style=flat-square&labelColor=130d2e)
 ![Data Science](https://img.shields.io/badge/Data-Science-2dd4bf?style=flat-square&labelColor=061c1a)
 ![Real-time](https://img.shields.io/badge/Real--time-Systems-f0abfc?style=flat-square&labelColor=1e0a1e)
@@ -62,7 +62,7 @@
 ## // Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arvin--mohsenian-60a5fa?style=flat-square&logo=linkedin&labelColor=0c1e3a)](https://linkedin.com/in/arvin-mohsenian)
-[![GitHub](https://img.shields.io/badge/GitHub-r--winn-94a3b8?style=flat-square&logo=github&labelColor=0f1624)](https://github.com/r-winn)
+[![GitHub](https://img.shields.io/badge/GitHub-Arvin_Mohsenian-94a3b8?style=flat-square&logo=github&labelColor=0f1624)](https://github.com/r-winn)
 
 ---
 
