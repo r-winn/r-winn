@@ -17,7 +17,7 @@
 
 ## ⬡ Current Mission
 
-> **NexChat** — A real-time AI-powered chat platform built from scratch.
+> **IDK | Chat** — A real-time AI-powered chat platform built from scratch.
 > Started with long-polling, migrating to WebSocket architecture.
 > AI integration in progress — aiming for context-aware conversations at scale.
 
@@ -41,7 +41,7 @@
 
 | Module | Status |
 |--------|--------|
-| 🔵 Current Focus | NexChat — WebSocket migration ↗ active |
+| 🔵 Current Focus | IDK \| Chat — WebSocket migration ↗ active |
 | 🟣 Learning Track | Data Science ↗ ongoing |
 | 🏢 Organization | [IDK Group](https://idk-group.ir) |
 | 🟢 Availability | Open to contributors |
