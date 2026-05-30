@@ -41,8 +41,9 @@
 
 | Module | Status |
 |--------|--------|
-| 🔵 Current Focus | WebSocket migration ↗ active |
+| 🔵 Current Focus | NexChat — WebSocket migration ↗ active |
 | 🟣 Learning Track | Data Science ↗ ongoing |
+| 🏢 Organization | [IDK Group](https://idk-group.ir) |
 | 🟢 Availability | Open to contributors |
 | 🌐 Location | Remote / Worldwide |
 
@@ -61,8 +62,8 @@
 
 ## // Connect
 
+[![Website](https://img.shields.io/badge/Website-idk--group.ir-2dd4bf?style=flat-square&labelColor=061c1a)](https://idk-group.ir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arvin--mohsenian-60a5fa?style=flat-square&logo=linkedin&labelColor=0c1e3a)](https://linkedin.com/in/arvin-mohsenian)
-[![GitHub](https://img.shields.io/badge/GitHub-Arvin_Mohsenian-94a3b8?style=flat-square&logo=github&labelColor=0f1624)](https://github.com/r-winn)
 
 ---
 
